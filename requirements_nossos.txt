@@ -1,0 +1,9 @@
+Não sei fazer isso certo só vou colar oq precisa
+
+***********usar python 3.11.4**************
+
+pip install pydicom
+pip install dicom
+pip install numpy
+pip install SimpleItk
+pip install git+https://github.com/JoHof/lungmask
